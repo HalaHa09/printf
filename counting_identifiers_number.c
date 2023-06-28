@@ -1,7 +1,7 @@
 #include<stdlib.h>
 
 /**
- * countt - counting the identifiers numbers
+ * countting - counting the identifiers numbers
  *
  * @format: string to count from
  *
@@ -26,6 +26,7 @@ int countting(const char *format)
 				{
 					res++;
 					i++;
+					end++;
 				}
 			}
 		}

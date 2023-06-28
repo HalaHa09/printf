@@ -67,7 +67,7 @@ int rot_str(char *s)
 }
 
 /**
- * spec_str - printing the haxadecimal value instead of non printed characters
+ * spec_sttr - printing the haxadecimal value instead of non printed characters
  *
  * @str2: specifier
  * @ss: string to print passed as argument in _printf
