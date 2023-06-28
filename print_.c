@@ -13,7 +13,7 @@
 int _print_(char str1, char str2, va_list arg)
 {
 	int num = 0, i, done = 0;
-	char str_chr[] = {'c', 's', '%', 's', 'r', 'R'};
+	char str_chr[] = {'c', 's', '%', 'S', 'r', 'R'};
 	char numb[] = {'b', 'd', 'i', 'u', 'o'};
 
 	if (str1 == '%')
